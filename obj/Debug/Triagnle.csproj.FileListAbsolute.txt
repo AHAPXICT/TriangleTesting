@@ -1,0 +1,15 @@
+C:\Projects\Triagnle\bin\Debug\Triagnle.exe.config
+C:\Projects\Triagnle\bin\Debug\Triagnle.exe
+C:\Projects\Triagnle\bin\Debug\Triagnle.pdb
+C:\Projects\Triagnle\obj\Debug\Triagnle.csproj.AssemblyReference.cache
+C:\Projects\Triagnle\obj\Debug\MainWindow.g.cs
+C:\Projects\Triagnle\obj\Debug\App.g.cs
+C:\Projects\Triagnle\obj\Debug\Triagnle_MarkupCompile.cache
+C:\Projects\Triagnle\obj\Debug\Triagnle_MarkupCompile.lref
+C:\Projects\Triagnle\obj\Debug\MainWindow.baml
+C:\Projects\Triagnle\obj\Debug\Triagnle.g.resources
+C:\Projects\Triagnle\obj\Debug\Triagnle.Properties.Resources.resources
+C:\Projects\Triagnle\obj\Debug\Triagnle.csproj.GenerateResource.cache
+C:\Projects\Triagnle\obj\Debug\Triagnle.csproj.CoreCompileInputs.cache
+C:\Projects\Triagnle\obj\Debug\Triagnle.exe
+C:\Projects\Triagnle\obj\Debug\Triagnle.pdb
